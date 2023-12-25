@@ -1,0 +1,10 @@
+.defaultClass{
+    font-size: 200px;;
+}
+.borderClass{
+    border:1px solid black;
+}
+.borderClass > tr{
+    margin:5px;
+    padding:5px;
+}
